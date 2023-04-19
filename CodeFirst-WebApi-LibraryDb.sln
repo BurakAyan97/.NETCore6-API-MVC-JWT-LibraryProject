@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeFirst-WebApi-LibraryDb", "CodeFirst-WebApi-LibraryDb\CodeFirst-WebApi-LibraryDb.csproj", "{19E25965-75D9-45FA-BD97-91CA40A6D26A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryUI", "LibraryUI\LibraryUI.csproj", "{96ABA41A-9919-4E75-9A88-0774A28EA7FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19E25965-75D9-45FA-BD97-91CA40A6D26A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19E25965-75D9-45FA-BD97-91CA40A6D26A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19E25965-75D9-45FA-BD97-91CA40A6D26A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19E25965-75D9-45FA-BD97-91CA40A6D26A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96ABA41A-9919-4E75-9A88-0774A28EA7FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96ABA41A-9919-4E75-9A88-0774A28EA7FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96ABA41A-9919-4E75-9A88-0774A28EA7FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96ABA41A-9919-4E75-9A88-0774A28EA7FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAB32AC4-DD76-4FBB-84DC-8E79750A291C}
+	EndGlobalSection
+EndGlobal
